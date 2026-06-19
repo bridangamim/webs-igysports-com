@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bridangamim.github.io/webs-igysports-com/sitemap.xml
